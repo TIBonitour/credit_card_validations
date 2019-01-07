@@ -42,7 +42,7 @@
     - '54'
     - '55'
   :options:
-    :brand_name: MasterCard
+    :brand_name: Master
 :amex:
   :rules:
   - :length:
@@ -51,7 +51,7 @@
     - '34'
     - '37'
   :options:
-    :brand_name: American Express
+    :brand_name: Amex
 :diners:
   :rules:
   - :length:
@@ -66,7 +66,7 @@
     - '36'
     - '38'
   :options:
-    :brand_name: Diners Club
+    :brand_name: Diners
 :jcb:
   :rules:
   - :length:
@@ -315,6 +315,8 @@
     - '637599'
     - '637609'
     - '637612'
+  :options:
+    :brand_name: Hipercard
 :elo:
   :rules:
   - :length:
