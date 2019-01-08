@@ -197,6 +197,8 @@
 :hipercard:
   :rules:
   - :length:
+    - 13
+    - 16
     - 19
     :prefixes:
     - '384'
